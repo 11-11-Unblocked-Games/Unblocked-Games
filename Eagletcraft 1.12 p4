@@ -1,18 +1,13 @@
 <!--
 
 YOU ARE PLAYING ON THE P4 PATCH OF EAGLETCRAFT 1.12 FROM 7/26/2025
-CHECK FOR NEWER VERSIONS HERE: https://github.com/PlanetDogeCodes/Eagletcraft-1.12
 
 THIS VERSION IS STILL IN DEVELOPMENT, SO PLEASE EXCUSE ANY BUGS AND REPORT THEM HERE: https://discord.gg/UEE39zHuCx
 
 Eagletcraft plays directly in the iframe, while  pressing the undetectable  button 
 opens Eagletcraft in a new window that appears blank to screen-monitoring software like GoGuardian and Securely
 
-Eaglercraft 1.12 created by PeytonPlayz595
-
 EaglercraftX Engine created by lax1dude and ayunami2000
-
-Eagletcraft compiled by PlanetDoge w/ help from the PlanetGamez team
 
 EaglercraftX 1.12 average RAM usage: 1.6 GB
 Eagletcraft 1.12 Undetectable average RAM usage: 0.8 GB
@@ -24,8 +19,6 @@ Eagletcraft 1.12 Undetectable average RAM usage: 0.8 GB
 
 
 Eagletcraft's code is liscensed under the Apache 2.0 terms. Redistribution of code without attribution is prohibited.
-PlanetGamez: https://sites.google.com/view/planet-gamez/
-OneCompiler Link: https://onecompiler.com/html/43rjjm8te
 
 -->
 
@@ -52,8 +45,7 @@ OneCompiler Link: https://onecompiler.com/html/43rjjm8te
   const DB_NAME = 'GameCacheDB';
   const STORE_NAME = 'GameFiles';
   const CACHE_DURATION = 90 * 24 * 60 * 60 * 1000; // 3 ay
-  const FILE_URL = 'https://cdn.jsdelivr.net/gh/PlanetDogeCodes/Eagletcraft-1.12@main/source%20file/egc1-12.xml';
-  const SDK_URL = 'https://cdn.jsdelivr.net/gh/testamalame/sef@main/sedk.js';
+  const FILE_URL = 'https://cdn.jsdelivr.net/gh/11-11-Unblocked-Games/@main/source%20file/egc1-12.xml';
 
   function openDB() {
     return new Promise((resolve, reject) => {
