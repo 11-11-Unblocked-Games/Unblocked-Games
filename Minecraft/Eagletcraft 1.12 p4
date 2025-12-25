@@ -45,7 +45,7 @@ Eagletcraft's code is liscensed under the Apache 2.0 terms. Redistribution of co
   const DB_NAME = 'GameCacheDB';
   const STORE_NAME = 'GameFiles';
   const CACHE_DURATION = 90 * 24 * 60 * 60 * 1000; // 3 ay
-  const FILE_URL = 'https://cdn.jsdelivr.net/gh/11-11-Unblocked-Games/Unblocked-Games@main/source%20file/egc1-12.xml';
+  const FILE_URL = 'https://cdn.jsdelivr.net/gh/11-11-Unblocked-Games/Unblocked-Games@main/Minecraft/source%20file/egc1-12.xml';
 
   function openDB() {
     return new Promise((resolve, reject) => {
